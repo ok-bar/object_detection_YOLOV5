@@ -2,10 +2,9 @@
 
 first clone YOLOV5
 
-pre code,  git clone https://github.com/ultralytics/yolov5.git
+.md:not(.use-csslab) git clone https://github.com/ultralytics/yolov5.git
 cd yolov5
 pip install -r requirements.txt
-.md:not(.use-csslab) pre code
  {
   white-space: pre-wrap;
 }
