@@ -1,11 +1,17 @@
 # object_detection_YOLOV5
 
 first clone YOLOV5
-'''
+
+<details>
+<summary>Click to expand</summary>
+
 git clone https://github.com/ultralytics/yolov5.git
 cd yolov5
 pip install -r requirements.txt
-'''
+
+</details>
+
+
 
 then edit coco.ymal:
 
