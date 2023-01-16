@@ -1,12 +1,11 @@
 # object_detection_YOLOV5
 
 first clone YOLOV5
-{% highlight ruby linenos %}
+'''
 git clone https://github.com/ultralytics/yolov5.git
 cd yolov5
 pip install -r requirements.txt
-{% endhighlight %}
-
+'''
 
 then edit coco.ymal:
 
