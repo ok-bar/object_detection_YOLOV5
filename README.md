@@ -2,9 +2,13 @@
 
 first clone YOLOV5
 
-'''git clone https://github.com/ultralytics/yolov5.git'''
-'''cd yolov5'''
-'''pip install -r requirements.txt'''
+pre code,  git clone https://github.com/ultralytics/yolov5.git
+cd yolov5
+pip install -r requirements.txt
+.md:not(.use-csslab) pre code
+ {
+  white-space: pre-wrap;
+}
 
 then edit coco.ymal:
 
